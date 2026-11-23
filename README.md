@@ -5,9 +5,9 @@ toque a mais: **power-ups** sorteados numa roleta a cada 3 mãos.
 
 ## Membros do grupo
 
-- Nome Sobrenome 1 (usuário GitHub)
-- Nome Sobrenome 2 (usuário GitHub)
-- Nome Sobrenome 3 (usuário GitHub)
+- Benício Huck (BenicioH)
+- Pedro Henerique Pesce (Pedro5902)
+- Heitor Visoso (Heitogv)
 
 ## Vídeo de apresentação
 

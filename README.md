@@ -208,4 +208,4 @@ nas reuniões.)
 - Biblioteca [pygame-ce](https://pyga.me/).
 - Nenhum trecho de código foi copiado de terceiros. Cartas, fichas e naipes são
   desenhados com formas do pygame e os sons são sintetizados pelo próprio jogo.
-- Uso de IA: descrito no relatório do projeto, conforme pedido pelo professor.
+- Uso de IA: Assistencia de plataformas de IA como Claude sendo direcionada pelos autores do grupo.

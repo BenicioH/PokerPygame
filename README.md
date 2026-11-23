@@ -11,7 +11,7 @@ toque a mais: **power-ups** sorteados numa roleta a cada 3 mãos.
 
 ## Vídeo de apresentação
 
-<https://link-do-video-aqui>
+https://www.youtube.com/watch?v=FOlTEvk2nuA
 
 ## Como rodar o jogo
 
